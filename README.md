@@ -1,5 +1,5 @@
 # BERT-WSD
-Word Sense Disambiguation by Fine-Tuning BERT on Gloss Selection Objective
+This is the official code repository for the Findings of EMNLP 2020 paper "[Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences](https://arxiv.org/abs/2009.11795)".
  
 ## Setup virtual environment
 ```
@@ -238,5 +238,17 @@ java Scorer data/corpus/semeval2007/semeval2007.gold.key.txt \
 - Raganato, Alessandro, Jose Camacho-Collados, and Roberto Navigli. "Word sense disambiguation: A unified evaluation framework and empirical comparison." Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers. 2017.
 - Huang, Luyao, et al. "GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge." Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
 - Wolf, Thomas, et al. "Huggingface’s transformers: State-of-the-art natural language processing." ArXiv, abs/1910.03771 (2019).
+
+
+## Citation
+[to be updated]
+```
+@misc{2009.11795,
+ Author = {Boon Peng Yap and Andrew Koh Jin Jie and Eng Siong Chng},
+ Title = {Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences},
+ Year = {2020},
+ Eprint = {arXiv:2009.11795},
+}
+```
 
 
