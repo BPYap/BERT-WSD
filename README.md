@@ -1,7 +1,7 @@
 # BERT-WSD
 This is the official code repository for the Findings of EMNLP 2020 paper "[Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences](https://arxiv.org/abs/2009.11795)".
  
-## Setup virtual environment
+## Installation
 ```
 python3 -m virtualenv env
 source env/bin/activate
@@ -241,13 +241,19 @@ java Scorer data/corpus/semeval2007/semeval2007.gold.key.txt \
 
 
 ## Citation
-[to be updated]
 ```
-@misc{2009.11795,
- Author = {Boon Peng Yap and Andrew Koh Jin Jie and Eng Siong Chng},
- Title = {Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences},
- Year = {2020},
- Eprint = {arXiv:2009.11795},
+@inproceedings{yap-etal-2020-adapting,
+    title = "Adapting {BERT} for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences",
+    author = "Yap, Boon Peng  and
+      Koh, Andrew  and
+      Chng, Eng Siong",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.findings-emnlp.4",
+    pages = "41--46"
 }
 ```
 
