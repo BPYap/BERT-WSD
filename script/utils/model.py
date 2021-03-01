@@ -9,7 +9,8 @@ BERT_MODELS = (
     'bert-base-cased',
     'bert-large-cased',
     'bert-large-uncased-whole-word-masking',
-    'bert-large-cased-whole-word-masking'
+    'bert-large-cased-whole-word-masking',
+    'bert-base-multilingual-cased'
 )
 
 
