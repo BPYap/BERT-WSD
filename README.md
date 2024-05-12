@@ -11,15 +11,15 @@ pip install -r requirements.txt
 
 
 ## Pre-trained models
-All datasets and pre-trained models are available for download [here](https://entuedu-my.sharepoint.com/:f:/g/personal/boonpeng001_e_ntu_edu_sg/EpCcVDhHWtZKp50duiIcGbABIpPfUhok-vJisRk7Ri9RnA?e=cHTrUp). 
+All datasets and pre-trained models are available for download [here](https://drive.google.com/drive/folders/1d2KTd2R87kdEodfcxOboLyEbtatkYjFq?usp=sharing). 
 
 ### Experiment results
 | Checkpoint           | Parameters    | SE07      | SE2      | SE3      | SE13     | SE15     | ALL      |
 | ---------------------|:-------------:|:---------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [BERT-base-baseline](https://entuedu-my.sharepoint.com/:f:/g/personal/boonpeng001_e_ntu_edu_sg/EqmcCr9jiCJFt0uQ8WhjmQwBZL3skr1b-J01NnNo7NEJPg?e=MAmNSB)   | 110M          | **73.6**  | 79.4     | 76.8     | 77.4     | 81.5     | 78.2     |
-| [BERT-base-augmented](https://entuedu-my.sharepoint.com/:f:/g/personal/boonpeng001_e_ntu_edu_sg/EiWzblOyyOBDtuO3klUbXoAB3THFzke-2MLWguIXrDopWg?e=08umXD)  | 110M          | **73.6**  | 79.3     | 76.9     | 79.1     | 82.0     | 78.7     | 
-| [BERT-large-baseline](https://entuedu-my.sharepoint.com/:f:/g/personal/boonpeng001_e_ntu_edu_sg/Ep1Uw0RBthJJv-pGAJtmOiQBFIXB3fAXuGYDxxNRRLrlbg?e=YgSa1T)  | 340M          | 73.0      | **79.9** | 77.4     | 78.2     | 81.8     | 78.7     | 
-| [BERT-large-augmented](https://entuedu-my.sharepoint.com/:f:/g/personal/boonpeng001_e_ntu_edu_sg/EqZjlCC79rRKrEUWBEm6s98BzeQYMWZNydAKLOzGDgD8Eg?e=rjZKTV) | 340M          | 72.7      | 79.8     | **77.8** | **79.7** | **84.4** | **79.5** |
+| [BERT-base-baseline](https://drive.google.com/drive/folders/1v1yRpbL0BPX3w8Fe-fyk9pb7Zq_dC0IQ?usp=sharing)   | 110M          | **73.6**  | 79.4     | 76.8     | 77.4     | 81.5     | 78.2     |
+| [BERT-base-augmented](https://drive.google.com/drive/folders/1Y_muEsFLGqdsBz6gfjN8pGXIRGKCCKK0?usp=sharing)  | 110M          | **73.6**  | 79.3     | 76.9     | 79.1     | 82.0     | 78.7     | 
+| [BERT-large-baseline](https://drive.google.com/drive/folders/1TejcFakMoaxtj7W1yH9lbXWSZtTz3YVm?usp=sharing)  | 340M          | 73.0      | **79.9** | 77.4     | 78.2     | 81.8     | 78.7     | 
+| [BERT-large-augmented](https://drive.google.com/drive/folders/1PmmYw2t6siRRkQkJST0cySGYQ-iRtG4S?usp=sharing) | 340M          | 72.7      | 79.8     | **77.8** | **79.7** | **84.4** | **79.5** |
 
 ### Command line demo
 Usage:
